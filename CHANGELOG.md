@@ -1,3 +1,8 @@
+# 1.4.1 WIP
+
+ - support for import inline option to include css that you do not want less to parse e.g. `@import (inline) "file.css";`
+ - better support for modifyVars (refresh styles with new variables, using a file cache), is now more resiliant
+
 # 1.4.0 Beta
 
 2013-03-07
